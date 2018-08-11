@@ -1,0 +1,24 @@
+{
+  "name": "minimal-http-server",
+  "version": "0.9.0",
+  "description": "node minimal-http-server just works as expected, good for built-in something",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenokabe/minimal-http-server.git"
+  },
+  "keywords": [
+    "http",
+    "server",
+    "minimal"
+  ],
+  "author": "Ken Okabe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kenokabe/minimal-http-server/issues"
+  },
+  "homepage": "https://github.com/kenokabe/minimal-http-server#readme"
+}
