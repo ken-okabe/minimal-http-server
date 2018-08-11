@@ -24,5 +24,10 @@ recommend to use
 
 https://www.npmjs.com/package/esm
 
+
+or simply copy&paste the function to your projcet from the source-code :
+
+https://github.com/kenokabe/minimal-http-server/blob/master/server.js
+
 ## MIT License
 
